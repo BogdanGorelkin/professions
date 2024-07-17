@@ -1,2 +1,3 @@
-# professions.json
-professions.json contains list of almost 2000 job titles, a quick way to initialize a dropdown with this list.
+# Datasets for autocomplete inputs
+chmod +x convert_to_json_obj.sh
+./convert_to_json_obj.sh professions.json professions.en.json
